@@ -1,0 +1,2 @@
+vi data`:wq!
+
